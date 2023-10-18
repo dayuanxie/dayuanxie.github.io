@@ -1,0 +1,13 @@
+name: "Dayuan Xie"
+navbar:
+  title: "Dayuan Xie"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: CV_DayuanXie.pdf
+    - text: "Research"
+      href: Research.html
+    - text: "Teaching"
+      href: Teaching.html
+output_dir: "docs"

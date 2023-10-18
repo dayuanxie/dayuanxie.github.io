@@ -1,0 +1,44 @@
+---
+title: "Home"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-8">
+<div style="text-align: justify">
+
+## **About Me**
+
+I am a Ph.D. candidate in economics at the University of Oklahoma (OU). I have been recognized as the first-year outstanding student at OU due to my excellent academic performance. My research has received recognition through the OU Dodge Family College of Arts and Sciences Dissertation Research Fellowship and the first-place Chong Liew Summer Research Award. Additionally, I have taught undergraduate courses in microeconomics and statistics at the University of Oklahoma, and I am proficient in various coding languages, including Stata, R, and Python.
+
+## Research Interests
+
+ - Applied Microeconomics 
+ - Labor and Demographic Economics
+ - Economics of Inequality
+ - Applied Microeconometrics
+ - Machine Learning Application
+ - Causal Inference
+
+
+
+</div>
+<div class="col-sm-8">
+</div>
+</div>
+
+<img src="images/Picture_DayuanXie.jpeg" width="300">
+
+</a>
+
