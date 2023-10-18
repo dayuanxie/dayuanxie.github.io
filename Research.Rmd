@@ -33,6 +33,7 @@ output:
 </div>
 
 # Publication
-1.	[Religion Effects on Fertility Preference: Evidence from China (with Yonghong Zhou)](https://link.springer.com/article/10.1007/s12546-022-09286-4), Journal of Population Research
+1.	[Religion Effects on Fertility Preference: Evidence from China (with Yonghong Zhou), *Journal
+of Population Research* 39, 341–371 (2022)](https://link.springer.com/article/10.1007/s12546-022-09286-4)
 
 
