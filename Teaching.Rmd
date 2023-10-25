@@ -52,7 +52,7 @@ output:
 
 
 ##### Spring 2021
- - Econ6213: Seminar in Price & Welfare Theory (PhD)
+ - Econ 6213: Seminar in Price & Welfare Theory (PhD)
  - Econ 5243: Econometrics II (PhD)
 
 
