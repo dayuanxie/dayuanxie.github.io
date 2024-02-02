@@ -21,10 +21,10 @@ output:
 
 
 ##### Summer 2023
- - Econ 2843: Elements of Statistics (undergraduate, evaluation: 4.67 out of 5)
+ - Econ 2843: Elements of Statistics (undergraduate, evaluation: 83 out of 100)
 
 ##### Spring 2021
- - Econ 1123: Principles of Microeconomics (undergraduate, evaluation: 83 out of 100)
+ - Econ 1123: Principles of Microeconomics (undergraduate, evaluation: 4.67 out of 5)
 
 
 
