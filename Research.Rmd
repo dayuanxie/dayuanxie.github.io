@@ -41,11 +41,11 @@ output:
 
     Abstract: In this paper, we develop a household decision-making model to examine how marriage patterns influence a woman's occupational choices. This research highlights a direct correlation between the intra-household wage gap and a wife's working hours. When a significant wage gap exists, often resulting from the wife's lower educational attainment, she tends to focus more on domestic responsibilities. Conversely, lesser wage disparities see increased female participation in the workforce. Our findings indicate that a woman is more likely to be employed in roles that demand extended working hours or offer limited flexibility if she is more educated than her husband.
 
-3.  Sunlight and Intergenerational Mobility (with Per G. Fredriksson and Le Wang)
+3.  Environmental Roots of Intergenerational Mobility (with Per G. Fredriksson and Le Wang)
 
 4.	Hell or Heaven: Rethinking Marriage and Marriage Premium
 
-5.  Daughter and Divorce: A Machine Learning Application (with Le Wang)
+5.  Daughters and Divorce: A Machine Learning Application (with Le Wang)
 
 </div>
 
